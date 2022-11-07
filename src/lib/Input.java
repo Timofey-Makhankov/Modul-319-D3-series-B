@@ -1,5 +1,4 @@
 package lib;
-
 // Get from Class library (JDK)
 import java.util.*;  // Gets a parser for input data, GregorianCalendar
 import java.time.*;  // LocalDate, LocalTime for inputDate-Time
